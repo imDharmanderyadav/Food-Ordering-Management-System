@@ -13,7 +13,7 @@ The Food Ordering Management System is a Java-based project designed to streamli
 - **Programming Language:** Java
 - **Backend Framework:** Hibernate
 - **Database:** MySQL
-- **IDE:** Eclipse / IntelliJ IDEA
+- **IDE:** Eclipse / IntelliJ IDEA / VS CODE
 - **Tools:** Maven, JDK
 
 ## Database Design
